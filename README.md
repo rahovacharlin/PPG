@@ -1,8 +1,9 @@
-#installation
-
-'''
 ## Installation
 
 ```
-$ npm install --save @github/clipboard-copy-element
+$ git clone https://github.com/rahovacharlin/PPG
+
+cd PPG
+
+python Rahova-PPG.py
 ```
