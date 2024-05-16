@@ -1,7 +1,9 @@
 # Profile Picture Guard
 
 ## Installation pkg
-
+Manao ilstallation aloha vao miexecuté anle command
+ - vita izy retra
+ - de alefa @zay le iay
 ```
 pkg install update
 pkg install upgrade
