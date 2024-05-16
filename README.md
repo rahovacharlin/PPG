@@ -1,9 +1,8 @@
 #installation
 
 '''
-git clone https://github.com/rahovacharlin/PPG
+## Installation
 
-cd PPG
-
-python Rahova-PPG.py
-'''
+```
+$ npm install --save @github/clipboard-copy-element
+```
