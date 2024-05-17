@@ -4,11 +4,7 @@
 
 click [here] if you wanna see it
 
-```python
-from rich.progress import track
-for a in track (range(300), desc = (message) ):
-    time.sleep(2.0)
-```
+![](
 
 [here]: https://www.facebook.com/jhovania
 
