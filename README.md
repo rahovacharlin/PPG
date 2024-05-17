@@ -25,4 +25,4 @@ cd PPG
 python Rahova-PPG.py
 ```
 ## Conclusion
-![](
+![](https://github.com/rahovacharlin/PPG/blob/main/1715927300684id-1b548811552b6dce3.gif)
