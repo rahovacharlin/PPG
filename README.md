@@ -1,13 +1,12 @@
 # Profile Picture Guard
-Profile link click [here] if you want
-
+click [here] if you wanna see it
 
 [here]: https://www.facebook.com/jhovania
 
 ## Installation pkg
 Manao ilstallation aloha vao miexecuté anle command
- - vita izy retra
- - de alefa @zay le iay
+ - ``vita izy retra``
+ - ``de alefa @zay le iay``
 ```
 pkg install update
 pkg install upgrade
