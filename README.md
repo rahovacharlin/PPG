@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Rahova-charlin-red">
 # Profile Picture Guard
 click [here] if you wanna see it
 
