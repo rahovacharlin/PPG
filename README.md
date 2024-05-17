@@ -24,3 +24,5 @@ git clone https://github.com/rahovacharlin/PPG
 cd PPG
 python Rahova-PPG.py
 ```
+![]
+(https://github.com/rahovacharlin/PPG/blob/main/1715926623201id-1b548811552b6dce3.gif)
