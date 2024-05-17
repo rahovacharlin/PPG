@@ -13,7 +13,7 @@ for a in track (range(300), desc = (message) ):
 [here]: https://www.facebook.com/jhovania
 
 ## Installation pkg
-##### Manao ilstallation aloha vao miexecuté anle command
+> Manao ilstallation aloha vao miexecuté anle command
  - ``vita izy retra``
  - ``de alefa @zay le iay``
 ```
